@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio 1</title>
+    </head>
+    <body>
+        <div>
+            <h1>Aprendiendo a utilizar imagenes</h1>
+            <img src="https://www.lavanguardia.com/files/og_thumbnail/uploads/2020/05/26/5fa91b5913838.jpeg" alt="valorant" width="500" height="300">
+        </div>
+        <div>
+            <h1>Aprendiendo a utilizar los videos</h1>
+            <video src="video2.mp4" controls autoplay loop muted width="300" height="300"></video>
+        <div>
+            <h1>Aprendiendo a utilizar los audios</h1>
+            <audio src="audio.mp3" controls autoplay loop></audio>
+        </div>
+    </body>
+</html>
